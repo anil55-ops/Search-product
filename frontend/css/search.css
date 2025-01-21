@@ -1,0 +1,27 @@
+.search_data_show {
+    position: absolute;
+    background: #f4f4f4;
+    padding: 23px;
+    width: 500px;
+    right: 0px;
+    z-index: 999;
+}
+
+.product_loop {
+    padding: 5px 0px;
+}
+.product_title a {
+    color: #000;
+    font-size: 15px;
+    font-family: 'Roboto';
+    line-height: 23px;
+}
+ .search_data_show {
+    display: none;
+}                   
+.search-field input.search_input_field {
+    background: url(/wp-content/uploads/2025/01/search.png );
+    background-repeat: no-repeat;
+    background-position: 95%;
+    background-size: 10%;
+}    
